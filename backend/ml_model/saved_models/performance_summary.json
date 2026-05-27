@@ -1,0 +1,101 @@
+{
+    "Naive Bayes": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "category_metrics": {
+            "Invoice/Financial": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "Resume/CV": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "Legal Contract": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "Scientific Paper": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "Business Proposal": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            }
+        }
+    },
+    "SVM": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "category_metrics": {
+            "Invoice/Financial": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "Resume/CV": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "Legal Contract": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "Scientific Paper": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "Business Proposal": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            }
+        }
+    },
+    "Logistic Regression": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "category_metrics": {
+            "Invoice/Financial": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "Resume/CV": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "Legal Contract": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "Scientific Paper": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "Business Proposal": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            }
+        }
+    }
+}
