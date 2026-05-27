@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Local app data
+backend/uploads/
+backend/documents.db
+backend/ml_model/saved_models/*.pkl
+backend/ml_model/saved_models/*.joblib
+backend/ml_model/saved_models/*.bin
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
