@@ -133,23 +133,7 @@ http://localhost:5000
 * Voice search
 * AI-generated summaries
 
----
 
-## Deployment
-
-### Frontend
-
-Deploy using:
-
-* Vercel
-* Netlify
-
-### Backend
-
-Deploy using:
-
-* Render
-* Railway
 
 ---
 
